@@ -1,0 +1,39 @@
+{
+  "@@last_modified": "2020-04-02T15:18:59.443557",
+  "appTitle": "Flutter Images",
+  "@appTitle": {
+    "description": "The app title",
+    "type": "text",
+    "placeholders": {}
+  },
+  "cancel": "Cancel",
+  "@cancel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "ok": "OK",
+  "@ok": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "yes": "Yes",
+  "@yes": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "no": "No",
+  "@no": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "inputTextShow": "Show text",
+  "@inputTextShow": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "inputTextHide": "Hide text",
+  "@inputTextHide": {
+    "type": "text",
+    "placeholders": {}
+  }
+}

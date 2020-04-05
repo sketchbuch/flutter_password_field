@@ -1,0 +1,22 @@
+name: flutter_password_field
+description: A small test of flutter building a PW widget that includes togglable visbility.
+version: 1.0.0+1
+
+dependencies:
+  cupertino_icons: ^0.1.2
+  email_validator: '^1.0.0'
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  intl_translation: ^0.17.1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+flutter:
+  uses-material-design: true

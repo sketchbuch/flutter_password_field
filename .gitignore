@@ -1,0 +1,36 @@
+# Misc.
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.buildlog/
+.history
+.svn/
+
+# IntelliJ
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# VSCode
+.vscode/
+.code-workspace
+
+# Flutter/Dart/Pub 
+**/doc/api/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+/build/
+
+# Web
+lib/generated_plugin_registrant.dart
+
+# Exceptions to above
+!/packages/flutter_tools/test/data/dart_dependencies_test/**/.packages
